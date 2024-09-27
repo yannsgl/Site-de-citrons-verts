@@ -1,0 +1,21 @@
+header{
+    padding: 10px ;
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    margin: 1px;
+}
+
+.icone{
+    margin-left: auto;
+}
